@@ -8,7 +8,7 @@ const Hero = () => {
       <h1> <span>I'm Yoshith</span>, frontend developer based in India.</h1>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut cupiditate labore iusto perferendis consequuntur perspiciatis sint aperiam, provident unde nobis quam assumenda?</p>
       <div className="hero-action">
-        <div className="connect">Connect with me</div>
+        <div className="hero-connect">Connect with me</div>
         <div className="my-resume">MY resume</div>
       </div>
     </div>

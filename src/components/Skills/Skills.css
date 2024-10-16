@@ -1,0 +1,36 @@
+.skills{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    margin: 80px 170px;
+
+
+}
+.skills-title{
+    position:relative;
+
+}
+.skills-title h1{
+    padding: 0 20px;
+    font-size: 60px;
+    font-weight: 500;
+}
+.skills-title img{
+    position: absolute;
+    bottom: 10px;
+    right:5px;
+    width: 60%;
+    z-index: -1;
+}
+.skills-section{
+    display: flex;
+    gap:70px;
+    flex-wrap: wrap;
+
+}
+.item{
+    flex-direction: column;
+    color: rgb(141,6,114);
+}

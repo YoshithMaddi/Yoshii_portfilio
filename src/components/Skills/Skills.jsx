@@ -23,7 +23,7 @@ const Skills = () => {
         <FontAwesomeIcon className='item'  icon={faGithub} />  {/* GitHub icon */}
         <FontAwesomeIcon className='item'  icon={faReact} />   {/* React icon */}
         <FontAwesomeIcon className='item'  icon={faC} />       {/* C icon */}
-        <FontAwesomeIcon className='item'  icon={faJava} /> 
+        <FontAwesomeIcon className='item '  icon={faJava} /> 
       </div>
       
     </div>
